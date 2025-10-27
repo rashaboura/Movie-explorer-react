@@ -13,4 +13,4 @@ Quick start
 3) Build for deployment:
    npm run build
 
-4) Deploy the 'dist' folder to Netlify / Vercel / GitHub Pages.
+4) Deploy the 'dist' folder to Netlify / Vercel / GitHub Pages
