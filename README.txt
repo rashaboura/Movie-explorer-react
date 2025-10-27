@@ -1,6 +1,5 @@
 Movie Explorer (React)
 =================================
-React rewrite that preserves your existing styling and UX.
 
 Quick start
 -----------
